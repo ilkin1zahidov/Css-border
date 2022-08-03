@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first{
+    margin-left: 800px;
+    margin-top: 300px;
+    width: 600px;
+    height: 300px;
+    border: 10px solid rgb(101, 67, 33);
+    border-radius: 76px 4px 50px 5px;
+    background-color:#008080
+
+}
+.second{
+    margin-left: 130px;
+    margin-top: 90px;
+    font-size: 50px;
+    color: white;
+    
+}
+
